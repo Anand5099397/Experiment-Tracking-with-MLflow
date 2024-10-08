@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Experiment-Tracking-with-MLflow/mlruns/450285465152752745/7423db53bc4348a6a91e24588ce8f229/artifacts
+end_time: 1728364213141
+entry_point_name: ''
+experiment_id: '450285465152752745'
+lifecycle_stage: active
+run_id: 7423db53bc4348a6a91e24588ce8f229
+run_name: Random_Forest
+run_uuid: 7423db53bc4348a6a91e24588ce8f229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728364210915
+status: 3
+tags: []
+user_id: codeshell

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Experiment-Tracking-with-MLflow/mlruns/450285465152752745/4db0d638b8824db7bb2ad2f1a89ca5ff/artifacts
+end_time: 1728363005047
+entry_point_name: ''
+experiment_id: '450285465152752745'
+lifecycle_stage: active
+run_id: 4db0d638b8824db7bb2ad2f1a89ca5ff
+run_name: Linear_Regression
+run_uuid: 4db0d638b8824db7bb2ad2f1a89ca5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728363003379
+status: 3
+tags: []
+user_id: codeshell
